@@ -7,14 +7,17 @@
 
 
 ### Features --> 
-  #### Voice Activity Detection : Instead of using a VAD model / voice classification model , I implemented a simple VAD 
+  #### Voice Activity Detection :
+  ##### Instead of using a VAD model / voice classification model , I implemented a simple VAD 
   ##### It replies on only "Assistant" yu can change it as well.
 
-  #### Speech to Tect : I employed Speech recognization library .
+  #### Speech to Tect :
+  ##### I employed Speech recognization library .
   ##### I can also use streamlit_mic_recorder 
 
 
-  #### LLM : So for the inference im using Groq (llama model) 
+  #### LLM : 
+  ##### So for the inference im using Groq (llama model) 
 
   #### Text to Speech :
   ##### I'm using Coqui/your_TTS model which is a light weight model for TTS 

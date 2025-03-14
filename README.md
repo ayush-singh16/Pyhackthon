@@ -7,21 +7,21 @@
 
 
 ### Features --> 
-  #### Voice Activity Detection :
-  ##### Instead of using a VAD model / voice classification model , I implemented a simple VAD 
+  #### Voice Activity Detection (VAD) :
+  ##### Instead of using a VAD model / voice classification model , I implemented a simple VAD .
   ##### It replies on only "Assistant" yu can change it as well.
 
-  #### Speech to Tect :
+  #### Speech to Text (STT):
   ##### I employed Speech recognization library .
-  ##### I can also use streamlit_mic_recorder 
+  ##### I can also use streamlit_mic_recorder .
 
 
   #### LLM : 
   ##### So for the inference im using Groq (llama model) 
 
-  #### Text to Speech :
-  ##### I'm using Coqui/your_TTS model which is a light weight model for TTS 
-  ##### it can also do voice cloning 
+  #### Text to Speech (TTS):
+  ##### I'm using Coqui/your_TTS model which is a light weight model for TTS .
+  ##### it can also do voice cloning .
 
 
 
@@ -32,7 +32,7 @@
 
 
 ## iNFERENCE-->
-  ### Just run the cells one by one from the ipynb file.
+  ### Just run the cells one by one from the ipynb file
   ### ngrok api key 
   ### Groqcloud api key 
 

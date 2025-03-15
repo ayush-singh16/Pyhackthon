@@ -3,7 +3,7 @@
 
 ## This is my solution for PyHackthon hosted by Jain Online :
 
-### Task : Voice Assistance 
+### Task : Home Voice Assistance 
 
 
 ### Features --> 
@@ -17,7 +17,7 @@
 
 
   #### LLM : 
-  ##### So for the inference im using Groq (llama model) 
+  ##### So for the inference im using Groq (llama model) for the home voice commands. 
 
   #### Text to Speech (TTS):
   ##### I'm using Coqui/your_TTS model which is a light weight model for TTS .
@@ -29,6 +29,7 @@
   ### Realtime Avatar Talking .
   ### Optimzed models for STT / VAD / TTS like faster_whisper , Bark , silerio etc 
   ### Optimzed for Edge Devices .
+  ### Will use LLM model which is trained on home commands. 
 
 
 ## iNFERENCE-->
